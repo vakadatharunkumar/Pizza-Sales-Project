@@ -1,0 +1,15 @@
+Problem Statement
+
+KPI Requirement
+We need to analyse key indicators for our pizza sales data to gain insights into our business performance. Specifically, we want to calculate the following metrics:
+
+
+1.Total Revenue: Sum of the total price of all pizza orders.
+
+2.Avg order value: The avg amount spent per order, calculated by dividing total revenue by the total number of orders.
+
+3.Total pizzas sold: The sum of the quantities of all pizzas sold.
+
+4.Toatl orders: The total number of orders placed.
+
+5.Avg pizzas per order: The avg num of pizzas sold per order, calculated by dividing the total num of pizzas sold by the total number of orders.
